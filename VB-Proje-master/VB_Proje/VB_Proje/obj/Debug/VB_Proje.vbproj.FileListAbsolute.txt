@@ -1,0 +1,30 @@
+c:\users\pc\documents\visual studio 2017\Projects\VB_Proje\VB_Proje\bin\Debug\VB_Proje.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\VB_Proje\VB_Proje\bin\Debug\VB_Proje.exe
+c:\users\pc\documents\visual studio 2017\Projects\VB_Proje\VB_Proje\bin\Debug\VB_Proje.pdb
+c:\users\pc\documents\visual studio 2017\Projects\VB_Proje\VB_Proje\bin\Debug\VB_Proje.xml
+c:\users\pc\documents\visual studio 2017\Projects\VB_Proje\VB_Proje\obj\Debug\VB_Proje.vbprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\VB_Proje\VB_Proje\obj\Debug\VB_Proje.kullaniciGiris_ekrani.resources
+c:\users\pc\documents\visual studio 2017\Projects\VB_Proje\VB_Proje\obj\Debug\VB_Proje.Resources.resources
+c:\users\pc\documents\visual studio 2017\Projects\VB_Proje\VB_Proje\obj\Debug\VB_Proje.vbproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2017\Projects\VB_Proje\VB_Proje\obj\Debug\VB_Proje.exe
+c:\users\pc\documents\visual studio 2017\Projects\VB_Proje\VB_Proje\obj\Debug\VB_Proje.xml
+c:\users\pc\documents\visual studio 2017\Projects\VB_Proje\VB_Proje\obj\Debug\VB_Proje.pdb
+c:\users\pc\documents\visual studio 2017\Projects\VB_Proje\VB_Proje\obj\Debug\VB_Proje.personelAnasafya.resources
+c:\users\pc\documents\visual studio 2017\Projects\VB_Proje\VB_Proje\obj\Debug\VB_Proje.yoneticiAnasayfa.resources
+c:\users\pc\documents\visual studio 2017\Projects\VB_Proje\VB_Proje\obj\Debug\VB_Proje.bitenGorevler.resources
+c:\users\pc\documents\visual studio 2017\Projects\VB_Proje\VB_Proje\obj\Debug\VB_Proje.personelBilgileri.resources
+C:\Users\Fenerbahce\Desktop\VB-Proje-master\VB_Proje\VB_Proje\bin\Debug\VB_Proje.exe.config
+C:\Users\Fenerbahce\Desktop\VB-Proje-master\VB_Proje\VB_Proje\bin\Debug\VB_Proje.exe
+C:\Users\Fenerbahce\Desktop\VB-Proje-master\VB_Proje\VB_Proje\bin\Debug\VB_Proje.pdb
+C:\Users\Fenerbahce\Desktop\VB-Proje-master\VB_Proje\VB_Proje\bin\Debug\VB_Proje.xml
+C:\Users\Fenerbahce\Desktop\VB-Proje-master\VB_Proje\VB_Proje\obj\Debug\VB_Proje.vbprojResolveAssemblyReference.cache
+C:\Users\Fenerbahce\Desktop\VB-Proje-master\VB_Proje\VB_Proje\obj\Debug\VB_Proje.bitenGorevler.resources
+C:\Users\Fenerbahce\Desktop\VB-Proje-master\VB_Proje\VB_Proje\obj\Debug\VB_Proje.kullaniciGiris_ekrani.resources
+C:\Users\Fenerbahce\Desktop\VB-Proje-master\VB_Proje\VB_Proje\obj\Debug\VB_Proje.Resources.resources
+C:\Users\Fenerbahce\Desktop\VB-Proje-master\VB_Proje\VB_Proje\obj\Debug\VB_Proje.personelAnasafya.resources
+C:\Users\Fenerbahce\Desktop\VB-Proje-master\VB_Proje\VB_Proje\obj\Debug\VB_Proje.personelBilgileri.resources
+C:\Users\Fenerbahce\Desktop\VB-Proje-master\VB_Proje\VB_Proje\obj\Debug\VB_Proje.yoneticiAnasayfa.resources
+C:\Users\Fenerbahce\Desktop\VB-Proje-master\VB_Proje\VB_Proje\obj\Debug\VB_Proje.vbproj.GenerateResource.Cache
+C:\Users\Fenerbahce\Desktop\VB-Proje-master\VB_Proje\VB_Proje\obj\Debug\VB_Proje.exe
+C:\Users\Fenerbahce\Desktop\VB-Proje-master\VB_Proje\VB_Proje\obj\Debug\VB_Proje.xml
+C:\Users\Fenerbahce\Desktop\VB-Proje-master\VB_Proje\VB_Proje\obj\Debug\VB_Proje.pdb

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VB_Proje
+</name>
+</assembly>
+<members>
+<member name="T:VB_Proje.My.Resources.Resources">
+<summary>
+  Yerelleştirilmiş dizeleri aramak gibi işlemler için, türü kesin olarak belirtilmiş kaynak sınıfı.
+</summary>
+</member>
+<member name="P:VB_Proje.My.Resources.Resources.ResourceManager">
+<summary>
+  Bu sınıf tarafından kullanılan, önbelleğe alınmış ResourceManager örneğini döndürür.
+</summary>
+</member>
+<member name="P:VB_Proje.My.Resources.Resources.Culture">
+<summary>
+  Bu türü kesin olarak belirtilmiş kaynak sınıfını kullanarak geçerli iş parçacığının
+  CurrentUICulture özelliğini tüm kaynak aramaları için geçersiz kılar.
+</summary>
+</member>
+<member name="P:VB_Proje.My.Resources.Resources.yesilRenk">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+</members>
+</doc>
